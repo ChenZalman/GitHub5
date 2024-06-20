@@ -1,4 +1,5 @@
 First line of file
 This is the second line from local
 this is the third line
-4th line fron cloud
+4th line merge
+
